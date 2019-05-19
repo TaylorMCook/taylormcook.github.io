@@ -4,93 +4,44 @@ feature_text: |
   ## Taylor M Cook
   taylor.cook@gmail.com
 feature_image: "https://photos.google.com/share/AF1QipO39B7wZOV7jmeBksKesK2KuQDNHDvSFwtgkk5rHoiNz_CWpfxriI34YpTua3BeJw/photo/AF1QipPZRDAWm7vGMBkqmTnvckya1yUajc5zk3UGrJbr?key=VTBjQ0M2T1ZBTzlHWE1VbnJWVFRRNE5kNmlaeHZ3"
-excerpt: "Taylor is pretty cool"
+excerpt: "I have a passion for brining people together to change the world"
 ---
 
-Taylor is pretty cool
+I have a passion for brining people together to change the world
 
-{% include button.html text="Follow" icon="instagram" link="https://www.instagram.com/tahititay/" color="#635D5B" %} 
+{% include button.html text="Follow" icon="instagram" link="https://www.instagram.com/tahititay/" color="#635D5B" %} {% include button.html text="Connect" icon="linked in" link="https://www.linkedin.com/in/taylor-cook-pmp-0215a94a/" color="#635D5B" %}
 
-## Features
+## Experience
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+Committed to service 
 
-## Examples
+- Service Design Lab Program Manager 
+- Design Project Manager			 						
+- Healthcare Project Manager and Consultant 						
+- Executive Director/Operations Director							
+- Partner and Consultant									
+- Policy Analyst 
+- Health Care Policy Fellow
+- Research and Evaluation Intern 								
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+## Education and Certifications
 
-- [bitpodcast.com](https://bitpodcast.com/)
-- [joelcagedesign.com](https://joelcagedesign.com/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](http://case2111.github.io/)
-- [www.10people.co.uk](http://www.10people.co.uk/)
-- [hrkeni.me](http://hrkeni.me/)
-- [ccs17.bsc.es](https://ccs17.bsc.es/)
-- [karateca.org](http://www.karateca.org/)
+Defined by curiosity
 
-## Installation
+-	Master of Arts in Economics, University of Montana, Missoula, MT
+-	Master of Public Administration, University of Montana, Missoula, MT
+-	BA in Economics and Political Science, Hollins University, Roanoke, VA
 
-### Quick setup
+- Certified Scrum Product Owner
+-	Software Product Management Certificate, Coursera-University of Alberta
+-	Project Management Certificate Program, University of Texas, Austin, TX
+-	Certified Project Management Professional (PMP)
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+## Community
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+Advocacy and giving 
+- [Texas Homeless Network] (https://www.thn.org)
+- [Farmshare Austin] (farmshareaustin.org
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-
-### As a Jekyll theme
-
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, simply by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're just looking to set your own colours and fonts copy the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file into your project at the same file path (`_sass/_settings.scss`) and change variables however you wish. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+## Other Interests
+- [Share those brews] (https://taylorcook7.wixsite.com/sharethosebrews)
