@@ -9,7 +9,7 @@ excerpt: "Taylor is pretty cool"
 
 Taylor is pretty cool
 
-{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} 
+{% include button.html text="Follow" icon="instagram" link="https://www.instagram.com/tahititay/" color="#635D5B" %} 
 
 ## Features
 
