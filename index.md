@@ -3,7 +3,7 @@ title: About Taylor
 feature_text: |
   ## Taylor M Cook
   taylor.cook@gmail.com
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://photos.google.com/share/AF1QipO39B7wZOV7jmeBksKesK2KuQDNHDvSFwtgkk5rHoiNz_CWpfxriI34YpTua3BeJw/photo/AF1QipPZRDAWm7vGMBkqmTnvckya1yUajc5zk3UGrJbr?key=VTBjQ0M2T1ZBTzlHWE1VbnJWVFRRNE5kNmlaeHZ3"
 excerpt: "Taylor is pretty cool"
 ---
 
