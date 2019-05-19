@@ -9,8 +9,6 @@ excerpt: "I have a passion for brining people together to change the world"
 
 I have a passion for brining people together to change the world
 
-{% include button.html text="Follow" icon="instagram" link="https://www.instagram.com/tahititay/" color="#635D5B" %} {% include button.html text="Connect" icon="linked in" link="https://www.linkedin.com/in/taylor-cook-pmp-0215a94a/" color="#635D5B" %}
-
 ## Experience
 
 Committed to service 
@@ -41,7 +39,10 @@ Defined by curiosity
 
 Advocacy and giving 
 - [Texas Homeless Network] (https://www.thn.org)
-- [Farmshare Austin] (farmshareaustin.org
+- [Farmshare Austin] (farmshareaustin.org)
 
 ## Other Interests
 - [Share those brews] (https://taylorcook7.wixsite.com/sharethosebrews)
+
+
+{% include button.html text="Follow" icon="instagram" link="https://www.instagram.com/tahititay/" color="#635D5B" %} {% include button.html text="Connect" icon="linked in" link="https://www.linkedin.com/in/taylor-cook-pmp-0215a94a/" color="#635D5B" %}
